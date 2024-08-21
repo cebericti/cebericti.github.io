@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cebericti.github.io/sitemap.html.gz
+Sitemap: https://cebericti.github.io/app/sitemap.html.gz
+Sitemap: https://cebericti.github.io/assets/sitemap.html.gz
+Sitemap: https://cebericti.github.io/css/sitemap.html.gz
+Sitemap: https://cebericti.github.io/includes/sitemap.html.gz
+Sitemap: https://cebericti.github.io/item/sitemap.html.gz
+Sitemap: https://cebericti.github.io/src/sitemap.html.gz
